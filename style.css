@@ -13,7 +13,6 @@ body {
     padding: 0px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 1.5em;
-
 }
 
 blockquote {
@@ -40,7 +39,6 @@ img {
 
 h1 {
     display: inline-block;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 36px;
+    font-family: 'Parisienne', cursive;
     /* background: white; */
 }
