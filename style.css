@@ -1,0 +1,46 @@
+body {
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 5px lightpink, 0 0 5px black, 0 0 15px black;
+    background: #221b41;
+    background: url(https://www.allkpop.com/upload/2020/11/content/151318/1605464332-45aa3779-e222-4beb-a8a9-d67f17be987e.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-width: 100vw;
+    min-height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5em;
+
+}
+
+blockquote {
+    font-size: 3em;
+}
+
+p {
+    display: inline-block;
+    /* background: white; */
+    margin: 25px 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+.website-wrapper {
+    width: 50%;
+    max-width: 700px;
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+
+h1 {
+    display: inline-block;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 36px;
+    /* background: white; */
+}
